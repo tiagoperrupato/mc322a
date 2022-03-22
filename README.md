@@ -1,5 +1,3 @@
-# Modelo para Apresentação do Aluno
-
 # Aluno
 * Tiago Perrupato Antunes
 # RA
